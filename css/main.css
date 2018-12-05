@@ -1,0 +1,44 @@
+#haiku {
+    text-align : center; 
+    font-size : 18px; 
+}
+
+p#instruction {
+    text-align : center; 
+    font-family : Calibri; 
+    color : darkgray;
+}
+
+div#input {
+    margin : auto; 
+    width : 100%; 
+    text-align : center; 
+}
+
+input {
+    height : 100px; 
+    width : 100%; 
+    font-size : 50px; 
+    text-align : center;
+    border : 0; 
+}
+
+#source-container {
+    padding-top : 0px; 
+    margin : auto;
+    width : 850px; 
+}
+
+#source-container > p {
+    padding-top : 40px; 
+    margin : auto;
+    width : 50%; 
+}
+
+#source-container > p#citation {
+    padding-top : 10px; 
+    padding-left : 100px; 
+    text-indent : -20px; 
+    margin : auto;
+    width : 50%; 
+}
